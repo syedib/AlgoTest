@@ -1,0 +1,6 @@
+G:\Alogorithm\VS_Solution\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+G:\Alogorithm\VS_Solution\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+G:\Alogorithm\VS_Solution\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+G:\Alogorithm\VS_Solution\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+G:\Alogorithm\VS_Solution\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
+G:\Alogorithm\VS_Solution\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+public static void Main(string arg[])
+{
+    printf("Hi Wrld");
+}

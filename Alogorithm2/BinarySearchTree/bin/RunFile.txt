@@ -1,0 +1,1 @@
+G:\Alogorithm\bin\combile.bat "$(CURRENT_DIRECTORY)\bin\$(NAME_PART).exe" "$(FULL_CURRENT_PATH)"
